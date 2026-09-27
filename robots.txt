@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://glassesdb.com/sitemap.xml
