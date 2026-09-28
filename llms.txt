@@ -1,0 +1,29 @@
+# GlassesDB
+
+> Independent smart glasses database, comparison and compatibility research.
+
+Canonical site: https://glassesdb.com/
+
+## Core sections
+- Database: https://glassesdb.com/database/
+- Finder: https://glassesdb.com/finder/
+- Compare: https://glassesdb.com/compare/
+- Brands: https://glassesdb.com/brands/
+- Compatibility: https://glassesdb.com/compatibility/
+- FAQ: https://glassesdb.com/faq/
+- Methodology: https://glassesdb.com/about/
+- Change log: https://glassesdb.com/changes/
+
+## Data policy
+GlassesDB normalizes manufacturer-provided specifications into common fields such as category, display, camera, audio, AI, weight, compatibility, field of view, refresh rate, brightness, battery, storage, wireless and IP rating.
+
+Unknown or unverified values are left blank, marked approximate, marked model-dependent, or described as not listed rather than inferred.
+
+Primary product data should be traced to manufacturer product pages, official documentation and support material. Product pages include an official-source link and last-verified period.
+
+## Machine discovery
+Sitemap: https://glassesdb.com/sitemap.xml
+Robots: https://glassesdb.com/robots.txt
+
+## Contact
+Corrections with an official manufacturer source: cnhhryp@gmail.com
