@@ -13,6 +13,19 @@ Canonical site: https://glassesdb.com/
 - FAQ: https://glassesdb.com/faq/
 - Methodology: https://glassesdb.com/about/
 - Change log: https://glassesdb.com/changes/
+- Data quality: https://glassesdb.com/data-quality/
+- Best for: https://glassesdb.com/best-for/
+- Features: https://glassesdb.com/features/
+
+## Taxonomy
+GlassesDB uses five primary product categories:
+- AI glasses
+- Audio glasses
+- HUD glasses
+- Display glasses
+- AR glasses
+
+Products can also be marked Current, Coming soon, Preorder, or Legacy. Finder recommendations exclude Coming soon, Preorder, and Legacy models.
 
 ## Data policy
 GlassesDB normalizes manufacturer-provided specifications into common fields such as category, display, camera, audio, AI, weight, compatibility, field of view, refresh rate, brightness, battery, storage, wireless and IP rating.
