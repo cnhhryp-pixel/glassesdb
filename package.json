@@ -1,0 +1,15 @@
+{
+  "name": "glassesdb",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "validate:data": "node scripts/validate-data.mjs",
+    "sitemap": "node scripts/generate-sitemap.mjs",
+    "audit": "node scripts/audit-site.mjs",
+    "check": "npm run validate:data && npm run sitemap && npm run audit"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
